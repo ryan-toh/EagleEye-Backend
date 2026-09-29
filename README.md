@@ -1,5 +1,9 @@
 # EagleEye backend
 
+> Important
+> This backend **is not mandatory** for EagleEye to function.
+> This backend enables optional AI features.
+
 This FastAPI service keeps the AI platform key on the server and returns a typed,
 EagleEye-compatible decision-tree draft. The browser never receives the key.
 
